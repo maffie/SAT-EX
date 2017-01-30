@@ -1,7 +1,7 @@
 This repository contains a [tutorial](https://github.com/sdcubber/SAT-EX/blob/master/plot_scripts/plot_tutorial.ipynb) on how to make these plots.
 
 ## Vegetation: NDVI (2006)
-![NDVI 2006](https://media.giphy.com/media/26xBJWqmiFba83xNS/source.gif)
+![NDVI 2006](https://media.giphy.com/media/l0ExdIDwGQOQA2g6s/source.gif)
 
 ## Precipitation: MSWEP (2006)
 ![MSWEP 2006](https://media.giphy.com/media/l3q2vNrIKTxziR0ty/source.gif)
