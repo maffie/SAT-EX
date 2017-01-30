@@ -1,3 +1,4 @@
+## Tutorial on how to make these plots: https://github.com/sdcubber/SAT-EX/blob/master/plot_scripts/plot_tutorial.ipynb
 
 ## Vegetation: NDVI (2006)
 ![NDVI 2006](https://media.giphy.com/media/26xBJWqmiFba83xNS/source.gif)
