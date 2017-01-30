@@ -157,7 +157,7 @@ def basemap_plot(fig, ax, globalmaparray, boundaries=np.arange(0, 1, 0.1),
     
         cbarTv.ax.tick_params(labelsize=30) # Font size of labels
 
-    fig.tight_layout(fig, rect=[0, 0, 1, 1])    
+    #fig.tight_layout(fig, rect=[0, 0, 1, 1])    
 
         
         
