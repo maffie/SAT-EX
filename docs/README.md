@@ -3,7 +3,7 @@ This repository contains a [tutorial](https://github.com/sdcubber/SAT-EX/blob/ma
 ## Vegetation (ndvi): GIMMS (2006)
 ![NDVI 2006](https://media.giphy.com/media/l0ExdIDwGQOQA2g6s/source.gif)
 
-## Precipitation: MSWEP (2006)
+<!---## Precipitation: MSWEP (2006)
 ![MSWEP 2006](https://media.giphy.com/media/l3q2vNrIKTxziR0ty/source.gif)
 
 ## Temperature: CRU (2006)
@@ -13,4 +13,5 @@ This repository contains a [tutorial](https://github.com/sdcubber/SAT-EX/blob/ma
 ![GLOBSNOW 2006](https://media.giphy.com/media/26xBJvIHUa7E6mJ3y/source.gif)
 
 ## Soil moisture: GLEAM (2006)
-![GLEAM 2006](https://media.giphy.com/media/26xBNipVBRcHVJiXC/source.gif)
+![GLEAM 2006](https://media.giphy.com/media/26xBNipVBRcHVJiXC/source.gif) and --->
+
