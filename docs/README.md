@@ -7,7 +7,10 @@
 ## Vegetation (ndvi): GIMMS (2006)
 ![NDVI 2006](https://media.giphy.com/media/l0ExdIDwGQOQA2g6s/source.gif)
 
-<!---## Precipitation: MSWEP (2006)
+<!---## NDVI residuals
+![NDVI residuals](https://media.giphy.com/media/xTiN0uUCWUqyfC8hRC/source.gif)
+
+## Precipitation: MSWEP (2006)
 ![MSWEP 2006](https://media.giphy.com/media/l3q2vNrIKTxziR0ty/source.gif)
 
 ## Temperature: CRU (2006)
