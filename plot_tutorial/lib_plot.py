@@ -113,7 +113,7 @@ def basemap_plot(fig, ax, globalmaparray, boundaries=np.arange(0, 1, 0.1),
     boundaries: list of boundaries for color bar
     USA: if true, plot only USA
     colscheme: name of colorbrewr scheme to be used. You can also pass a custom
-    listedcolormap to this argument, if it is of lenght (len(boundaries) - 1).
+    listedcolormap to this argument, if it is of length (len(boundaries) - 1).
     For more info check http://seaborn.pydata.org/tutorial/color_palettes.html  
     For the  names of colorbrewer color schemes check https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf
     """
