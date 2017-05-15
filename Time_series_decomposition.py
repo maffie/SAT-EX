@@ -1,7 +1,12 @@
 
 # coding: utf-8
 
-# In[127]:
+# Python script to convert raw data in a .netcdf file into residuals
+# via a linear decomposition approach: first the trend is calculated and subtracted, then a cyclical component. 
+# Usage in command line:
+# python Time_series_decomposition.py resolution infile.nc outfile.nc
+# 
+# resolution should be one of monthly - weekly - daily
 
 # Import libraries
 import os
