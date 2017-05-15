@@ -49,9 +49,6 @@ LAI_npdata = LAI['LAI'].values
 npshape = LAI_npdata.shape
 print('Done!')
 
-# set resolution
-resolution = 'monthly' # one of ['monthly', 'weekly', 'daily']
-
 # Numpy array to store trend component
 LAI_trend_np = np.ndarray(shape=npshape)
 
